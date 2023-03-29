@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: red;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-shadow: 10px 10px 10px blueviolet;
+    margin: 10px;
+}
+h4{
+    font-size: 25px;
+    text-shadow: 5px 5px 5px white;
+}
+#imagen{
+    width: 150px;
+    height: 200px;
+    border-radius: 100%;
+}
+#imagen:hover{
+    transform: scale(1.1);
+    transform: rotate(1080deg);
+    transition: 1s all ease;
+}
+a{
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+    margin: 10px auto;
+    font-size: 20px;
+    display: block;
+    background-color: blueviolet;
+    color: turquoise;
+    border: 2px solid white;
+    box-shadow: 0px 10px 10px red;
+}

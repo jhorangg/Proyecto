@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: yellow
+}
+h1{
+    color: rgb(46, 74, 197);
+    font-size: 30px;
+    text-shadow: 15px 15px 15px white;
+    margin: 20px;
+}
